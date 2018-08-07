@@ -1,5 +1,5 @@
 {
-  "name": "ionic-native-http-connection-backend",
+  "name": "ulises-ionic-native-http-connection-backend-temp",
   "version": "4.0.7",
   "description": "A solution to CORS problem with Ionic and WKWebView",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sneas/ionic-native-http-connection-backend.git"
+    "url": "https://github.com/UlisesCeca/ionic-native-http-connection-backend.git"
   },
   "keywords": [
     "ionic",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/sneas/ionic-native-http-connection-backend/issues"
   },
-  "homepage": "https://github.com/sneas/ionic-native-http-connection-backend#readme",
+  "homepage": "https://github.com/UlisesCeca/ionic-native-http-connection-backend#readme",
   "devDependencies": {
     "@angular/common": "^5.2.10",
     "@angular/compiler": "^5.2.10",
